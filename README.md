@@ -1,4 +1,4 @@
-# リンクを日本語ドキュメントに修正しただけのもの
+# <<リンクを日本語ドキュメントに修正>>
 
 # Microsoft Certified Azure Solutions Architect Expert <!-- omit in toc -->
 This project is my study guide to Exams *AZ-300: Microsoft Azure Architect Technologies* and *AZ-301:	Microsoft Azure Architect Design*. Below is a Table of Contents that has links to all different parts of the Exam. Everything on the [official site for the exam](https://www.microsoft.com/en-us/learning/azure-solutions-architect.aspx#skillsandknowledge) is found here verbatim. The detailed breakdown of the individual components are in the respective exam directories and are presented in an outline style with links to documentation on each Azure resource in the exams. Enjoy!
